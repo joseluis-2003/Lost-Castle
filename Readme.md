@@ -1,6 +1,7 @@
 # 🏯Lost Castle🏯
 ## José Luis González Álamo DAM
 
+[Wallpaper](./wallpaper.png)
 
 
 ## Índice
