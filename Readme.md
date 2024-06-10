@@ -18,8 +18,9 @@
 11. [Enlace a la documentación](#11-enlace-a-la-documentación)
 12. [Agradecimientos](#12-agradecimientos)
 13. [Referencias](#13-referencias)
-14. [Licencias](#14-licencias)
-15. [Contacto](#15-contacto)
+14. [Despedida](#14-despedida)
+15. [Licencias](#15-licencias)
+16. [Contacto](#16-contacto)
 
 
 # 1. Descripción del proyecto
@@ -662,11 +663,20 @@ También quiero agradecer a toda mi familia por el apoyo mostrado durante este t
 4. [Assets 4](https://assetstore.unity.com/packages/2d/gui/simple-fantasy-gui-99451)
 5. [Assets 5](https://assetstore.unity.com/packages/2d/characters/tiny-rpg-forest-114685)
 
-## 14. Licencias
+## 14. Despedida
+Quisiera concluir este readme expresando mi más sincero agradecimiento a todos aquellos que han contribuido de una u otra manera en la realización de este proyecto. Este Trabajo de Final de Grado no solo ha sido un desafío académico, sino también una oportunidad invaluable para mi desarrollo profesional y personal.
+Agradezco profundamente a mis profesores y tutores por su orientación y apoyo constante, así como a mis compañeros por su colaboración y camaradería durante este viaje. Igualmente, deseo destacar el respaldo de mi familia y amigos, quienes me han motivado a seguir adelante en los momentos más difíciles.
+Este proyecto me ha permitido aplicar los conocimientos adquiridos a lo largo de mi formación y explorar nuevas áreas del desarrollo de videojuegos. Espero que el resultado de mi esfuerzo no solo cumpla con las expectativas académicas, sino que también sirva como base para futuros desarrollos y proyectos en mi carrera profesional.
+Con esta despedida, cierro un capítulo importante de mi vida académica, pero con la certeza de que es solo el comienzo de una carrera llena de desafíos y oportunidades en el apasionante mundo de los videojuegos.
+Gracias a todos por ser parte de este viaje.
+Atentamente,
+José Luis González Álamo
+
+## 15. Licencias
 
 Este proyecto está licenciado bajo la MIT License
 
-## 15. Contacto
+## 16. Contacto
 
 Para cualquier consulta o sugerencia, puedes contactarme a través de:
 - **Correo Electrónico**: joseluisgonzalezalamo@gmail.com
