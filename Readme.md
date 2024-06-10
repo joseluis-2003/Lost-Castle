@@ -1,5 +1,6 @@
 # 🏯Lost Castle🏯
-## José Luis González Álamo DAM
+## José Luis González Álamo 
+## Desarrollo de Aplicaciones Multiplataforma
 
 ![Wallpaper](wallpaper.png)
 
