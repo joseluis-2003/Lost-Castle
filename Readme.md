@@ -646,7 +646,6 @@ El script `ToFloor02` maneja la transición al segundo piso del juego "Lost Cast
 ## 10. Enlace a figma
 
 [Mira el diseño de Lost Castle en Figma](https://www.figma.com/design/dYTAnHdQozYcXNY9amti7B/Figma-Lost-Castle?node-id=0-1&t=cTlfWsVvwWQkLqly-1)
-![qr](figma.png)
 
 ## 11. Enlace a la Documentación
 [Enlace a la documentación](./TFG.docx)
