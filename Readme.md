@@ -1,4 +1,4 @@
-# ** 🏯Lost Castle🏯**
+# 🏯Lost Castle🏯
 ## José Luis González Álamo DAM
 
 
