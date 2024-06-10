@@ -7,7 +7,7 @@ public class UIManager : MonoBehaviour
 {
     public GameObject story2;
 
-    public GameObject dialogueBox1; //显示or隐藏整个对话窗口
+    public GameObject dialogueBox1; 
 
     public GameObject dialogueBox2;
 
