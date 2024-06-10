@@ -16,8 +16,10 @@
 9. [Explicación de los Scripts ](#9-explicación-de-los-scripts-)
 10. [Enlace de Figma](#10-enlace-a-figma)
 11. [Enlace a la documentación](#11-enlace-a-la-documentación)
-12. [Licencias](#10-licencias)
-13. [Contacto](#11-contacto)
+12. [Agradecimientos](#12-agradecimientos)
+13. [Referencias](#13-referencias)
+14. [Licencias](#14-licencias)
+15. [Contacto](#15-contacto)
 
 
 # 1. Descripción del proyecto
@@ -652,15 +654,19 @@ También quiero agradecer a toda mi familia por el apoyo mostrado durante este t
 
 ## 13. Referencias 
 
+## Assets Store
 
+1. [Assets 1](https://assetstore.unity.com/packages/2d/gui/fantasy-wooden-gui-free-103811)
+2. [Assets 2](https://assetstore.unity.com/packages/2d/characters/pixel-adventure-2-155418)
+3. [Assets 3](https://assetstore.unity.com/packages/2d/textures-materials/tiles/pixel-2d-castle-tileset-135397)
+4. [Assets 4](https://assetstore.unity.com/packages/2d/gui/simple-fantasy-gui-99451)
+5. [Assets 5](https://assetstore.unity.com/packages/2d/characters/tiny-rpg-forest-114685)
 
-
-
-## 13. Licencias
+## 14. Licencias
 
 Este proyecto está licenciado bajo la MIT License
 
-## 14. Contacto
+## 15. Contacto
 
 Para cualquier consulta o sugerencia, puedes contactarme a través de:
 - **Correo Electrónico**: joseluisgonzalezalamo@gmail.com
