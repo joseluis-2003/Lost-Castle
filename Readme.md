@@ -645,13 +645,22 @@ El script `ToFloor02` maneja la transición al segundo piso del juego "Lost Cast
 ## 11. Enlace a la Documentación
 [Enlace a la documentación](./TFG.docx)
 
+## 12. Agradecimientos
+Agradezco la ayuda a mi tutora María Fernanda Hoyuela de la Cueva por su esfuerzo y dedicación en que alcanzara el mejor trabajo posible, sin su apoyo, colaboración y tutoría durante este largo proyecto no habría sido capaz de alcanzar lo que he logrado hoy.
+
+También quiero agradecer a toda mi familia por el apoyo mostrado durante este tiempo, han sido meses complicados y han estado ahí todos los días apoyándome y ayudándome siempre que lo necesitaba, sin ellos no habría llegado donde estoy a día de hoy.
+
+## 13. Referencias 
 
 
-## 12. Licencias
+
+
+
+## 13. Licencias
 
 Este proyecto está licenciado bajo la MIT License
 
-## 13. Contacto
+## 14. Contacto
 
 Para cualquier consulta o sugerencia, puedes contactarme a través de:
 - **Correo Electrónico**: joseluisgonzalezalamo@gmail.com
