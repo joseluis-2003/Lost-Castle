@@ -2,7 +2,7 @@
 ## José Luis González Álamo 
 ## Desarrollo de Aplicaciones Multiplataforma
 
-![Wallpaper](wallpaper.png)
+![Header Image](wallpaper.png)
 
 
 ## Índice
